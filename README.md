@@ -49,10 +49,11 @@ The workflow implemented in the notebook is as follows:
 
 The Fuzzy C-Means algorithm demonstrated a good ability to group the penguins. The visualization shows that the three clusters formed largely correspond to the three actual penguin species, although there is some overlap between clusters, which is characteristic of soft clustering.
 
-```markdown
-![clusters_visualization](https://github.com/user-attachments/assets/c54f47f6-fe77-4cc0-8322-fc960d383c92) ![confusion_matrix](https://github.com/user-attachments/assets/68f38b20-844c-43ec-a33c-91dacd2d8136)
+![clusters_visualization](https://github.com/user-attachments/assets/c54f47f6-fe77-4cc0-8322-fc960d383c92) 
 
-```
+and result of confussion matrix with **89.18 percent** accuracy
+
+![confusion_matrix](https://github.com/user-attachments/assets/68f38b20-844c-43ec-a33c-91dacd2d8136)
 
 ## 🚀 How to Run
 To run this project in your local environment, follow these steps:
